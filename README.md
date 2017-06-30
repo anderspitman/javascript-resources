@@ -8,4 +8,6 @@
 
 [Backbone to Mithril](https://james-forbes.com/?/posts/backbone-to-mithril)
 
-[D3 + React](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
+[D3 + React (N Hery)](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
+
+[D3 + React with react creating SVG](http://ahmadchatha.com/writings/article1.html)
