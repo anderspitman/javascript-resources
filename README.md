@@ -7,3 +7,5 @@
 [Microjs](http://microjs.com/#)
 
 [Backbone to Mithril](https://james-forbes.com/?/posts/backbone-to-mithril)
+
+[D3 + React](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
