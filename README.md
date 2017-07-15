@@ -20,3 +20,5 @@
 [Microjs](http://microjs.com/#)
 
 [Two.js HN thread (mentions Backbone.events)](https://news.ycombinator.com/item?id=5668374)
+
+[Nice discussion of js in bioinformatics](https://github.com/bionode/bionode/issues/9)
