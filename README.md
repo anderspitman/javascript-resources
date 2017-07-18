@@ -12,6 +12,8 @@
 
 [Why we still use backbone](http://www.enspire.com/why-we-still-use-backbone-js/)
 
+[The Case for Marionette](https://benmccormick.org/2014/12/02/the-case-for-marionette-js/)
+
 
 # Misc
 
