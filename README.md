@@ -15,12 +15,19 @@
 [The Case for Marionette](https://benmccormick.org/2014/12/02/the-case-for-marionette-js/)
 
 
-# Misc
+# Module Loaders
+
+[Writing Modular Javascript Addy Osmani](https://addyosmani.com/writing-modular-js/)
 
 [History of module loaders](https://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/)
+
+
+# Misc
 
 [Microjs](http://microjs.com/#)
 
 [Two.js HN thread (mentions Backbone.events)](https://news.ycombinator.com/item?id=5668374)
 
 [Nice discussion of js in bioinformatics](https://github.com/bionode/bionode/issues/9)
+
+
